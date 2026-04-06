@@ -1,4 +1,4 @@
-# AlphaEdit
+# RvoEdit
 - Code for [``EvoEdit``]
 
 ## Requirements
